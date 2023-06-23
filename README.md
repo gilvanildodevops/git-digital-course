@@ -9,6 +9,8 @@
 * git restore - é uma nova opção quando estamos trabalhando e precisamos restaurar algum arquivo ou o projeto por completo.
 * git log - é a ferramenta básica do Git para explorar o histórico de um repositório.
 
+*******************************************************************************************************************************************************************
+
 * git add . - adiciona uma alteração no diretório ativo à área de staging.
 * git remote - permite criar, ver e excluir conexões com outros repositórios
 * git push origin main - é usado para enviar o conteúdo do repositório local para um repositório remoto (Git Hub).
